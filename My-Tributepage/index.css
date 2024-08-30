@@ -1,0 +1,43 @@
+body{
+   
+
+  
+background: rgb(67,242,125);
+background: radial-gradient(circle, rgba(67,242,125,1) 0%, rgba(67,91,242,1) 100%);
+    
+}
+h2{
+    color:lawngreen
+}
+
+
+.container{
+    display:flex;
+    flex-direction:column;
+    width:80%;
+    height:100vh;
+}
+.header{
+    text-align: center;
+}
+#about-ronaldo{
+  font-size:larger;
+  color:aliceblue;
+  font-style: bold;
+  width:fit-content;
+  height: fit-content;
+}
+
+footer{
+    font-size:medium; 
+    color:#f40707e0;
+    font-style: italic;
+    width:max-content;
+    height: max-content;
+    /* background-color: chartreuse; */
+    width:100%;
+    text-align: center;
+}
+h3{
+ color:lawngreen 
+}

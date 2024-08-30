@@ -1,0 +1,70 @@
+h1{
+    color:red;
+    text-align: center;
+   
+}
+
+.form{
+    text-align: center;
+}
+
+.button{
+    margin:auto;
+    border-radius: 25%;
+    color:indianred;
+    background-color: bisque;
+    font-size: medium;
+    height:35px;
+    width:max-content;
+}
+.Hello{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+.username{
+    height:max-content;
+    margin-bottom: 15px;
+}
+.password{
+    height:max-content;
+    margin-bottom: 15px; 
+}
+body{
+    background: rgb(0,249,255);
+    background: linear-gradient(90deg, rgba(0,249,255,0.9893207282913166) 0%, rgba(169,25,235,1) 100%);
+}
+.label{
+    color: red;
+    font-size: x-large;
+}
+.container{
+    display:flex;
+    flex-direction:column;
+    width:80%;
+    height:100vh;
+}
+.header{
+    text-align: center;
+}
+#about-ronaldo{
+  font-size:larger;
+  color:aliceblue;
+  font-style: bold;
+  width:fit-content;
+  height: fit-content;
+}
+
+footer{
+    font-size:medium; 
+    color:#f40707e0;
+    font-style: italic;
+    width:max-content;
+    height: max-content;
+    /* background-color: chartreuse; */
+    width:100%;
+    text-align: center;
+}
+h3{
+ color:lawngreen 
+}
